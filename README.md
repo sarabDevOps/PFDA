@@ -25,7 +25,7 @@ Steps how to install jupyterNotebook [here](https://docs.jupyter.org/en/latest/i
 
 **Step 1** Open jyperNotebook and upload file called G00305450 from downloaded files 
 
-**Step 2** - change the *file path* (file name called "hly375")
+**Step 2** - change the **file path** (file name called "hly375")
 
 **Step 3** Run the file G00305450 
 
